@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 7126d8c3c81d52a44b68a9a0bc6b39a1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cactus Looping_0
+    21300002: Cactus Looping_1
+    21300004: Cactus Looping_2
+    21300006: Cactus Looping_3
+    21300008: Cactus Looping_4
+    21300010: Cactus Looping_5
+    21300012: Cactus Looping_6
+    21300014: Cactus Looping_7
+    21300016: Cactus Looping_8
+    21300018: Cactus Looping_9
+    21300020: Cactus Looping_10
+    21300022: Cactus Looping_11
+    21300024: Cactus Looping_12
+    21300026: Cactus Looping_13
+    21300028: Cactus Looping_14
+    21300030: Cactus Looping_15
+    21300032: Cactus Looping_16
+    21300034: Cactus Looping_17
+    21300036: Cactus Looping_18
+    21300038: Cactus Looping_19
+    21300040: Cactus Looping_20
+    21300042: Cactus Looping_21
+    21300044: Cactus Looping_22
+    21300046: Cactus Looping_23
+    21300048: Cactus Looping_24
+    21300050: Cactus Looping_25
+    21300052: Cactus Looping_26
+    21300054: Cactus Looping_27
+    21300056: Cactus Looping_28
+    21300058: Cactus Looping_29
+    21300060: Cactus Looping_30
+    21300062: Cactus Looping_31
+    21300064: Cactus Looping_32
+    21300066: Cactus Looping_33
+    21300068: Cactus Looping_34
+    21300070: Cactus Looping_35
+    21300072: Cactus Looping_36
+    21300074: Cactus Looping_37
+    21300076: Cactus Looping_38
+    21300078: Cactus Looping_39
+    21300080: Cactus Looping_40
+    21300082: Cactus Looping_41
+    21300084: Cactus Looping_42
+    21300086: Cactus Looping_43
+    21300088: Cactus Looping_44
+    21300090: Cactus Looping_45
+    21300092: Cactus Looping_46
+    21300094: Cactus Looping_47
+    21300096: Cactus Looping_48
+    21300098: Cactus Looping_49
+    21300100: Cactus Looping_50
+    21300102: Cactus Looping_51
+    21300104: Cactus Looping_52
+    21300106: Cactus Looping_53
+    21300108: Cactus Looping_54
+    21300110: Cactus Looping_55
+    21300112: Cactus Looping_56
+    21300114: Cactus Looping_57
+    21300116: Cactus Looping_58
+    21300118: Cactus Looping_59
+    21300120: Cactus Looping_60
+    21300122: Cactus Looping_61
+    21300124: Cactus Looping_62
+    21300126: Cactus Looping_63
+    21300128: Cactus Looping_64
+    21300130: Cactus Looping_65
+    21300132: Cactus Looping_66
+    21300134: Cactus Looping_67
+    21300136: Cactus Looping_68
+    21300138: Cactus Looping_69
+    21300140: Cactus Looping_70
+    21300142: Cactus Looping_71
+    21300144: Cactus Looping_72
+    21300146: Cactus Looping_73
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cactus Looping_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfddaec94908cc4682ecf131a5a49d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d094ebfecec3a49967d373156ceba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8842b6b0358c4984294d3165f91c0746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06143302472057d48862d3cca731f34d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f6dc2361a59f47a00066b8157d6ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfc75f45aa8afd47baeddbd320c2fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e7e86ebe17ba847be0fa5d59b79779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fed42861f18e014e92060dae80a3031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fff657b88950674e9270ea8d111ec54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a0caf79f7d964f8a64ab048308e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c19868db0e2942a0f5533d4b0ec31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c3b6edbeec8424b85ae1d0da358f22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6446f543756c43b3fa6f62e08eeb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf61d0abd7e98c84dae2074c479c9156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26263535eb3d00b46ba687bf05b9d7bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb2d2a3b916c0542a2a877131e7e2b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f34aeedcc136df499c2c2ffb1b4249f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33322c5fb66de4caf7fffe14ae5366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15de47a52ca4e84b87607903073e299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beda18507a8424448478a084d5aa7df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6748225d61f49c4ab65ede406fbd251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfdcdd16b54e154f999302e51958afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afca5044f0b1d041b0307df9dc1885f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_23
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0350d80a32c49b442aefa96589c21369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b538ee789b2c154fb78c05c8bdb806c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd5ab67513524458e27572b468fe62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426f1fac6d323344ab5abf3b502a04f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_27
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dede11ecce27284f8f5e87a2c97abc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde260635717a0d44a1a7ab9c6d38413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_29
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1645d47b0e21f445acbb3c1825277fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b8476db06afef47a99b155dc169a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372971882dd49c24eb740e9b48b076de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a665ccc884587ea4881d6a56cdff58d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aa5597e1bfa624da4591a73b0c17e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175aae3b767d33348b3d57ec6b188c23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068ec40cdb55eb4b81ed472191161ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b3ded63c36404baf18a4cdc752833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a978a33b86374e4b8b23e3410fd03a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2817d6f701fc4734f84d351d81f856ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3846658cfbf6441af60b6e90b4d922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466dde6cb2258ac4d85dc79217d695d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_41
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc6a4c81878382428691111187e8cdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783df1ca96daa124780989041a49b30e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790abbdee28d7dc4389cb4664ff2c76c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0964d376713241439bb2862a922c456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_45
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313ac4f1f83f16a4e95a9d523b916c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_46
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b6b940663eb9541b40ba2e1227ccc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_47
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b53a432a7279c24788b1f12d45ccc6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9864ed60e22d243a373f58100723fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079a5960659bd445b31edc5f5f5d89f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940e5c55338272c44be4a11940367e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52dd7db6d751e4f9af7b36694f28ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_52
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e9ff3c35cc774894ea7b8739d6354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab792260f90789448eee7711186de4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09678eee9eb556346bb1aa0c9ba4f9b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c2a7c8c2a7ff74481a82a78c80ea2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440649913a984c94098bbd01d140e931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b772293a9edbc624ab457c2c10bb715b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5494bc05c6b81394ab6a9c7231ccdcda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_59
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64be41a4f23688743936e1f30b09e1fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7e54fd182bed74182107f1821f49f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c75854f5fb8d44eaf3444da3e8a188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69de4208de2fbe245a33bf1eeca3ca0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba9d7da662f142459f4994a61a88f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa8fc6adad4b18428d4d8f6cb2641f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_65
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94df6669b87a7104284a07551e418160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2e1fe6ef7724d4884f78033cf25843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_67
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb9ac720de3f042aeba6b5ecdfbcbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4cf12452842248826b94bf9771bcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b8e1afa63c334997806ddb8710597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35f1a4a7cea4dd428644f4886aab1af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e951080a232ce5346a58f0b83802e121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f860050c83f004cbbd0946e2d2c034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Looping_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4118cde9dce18e479ae4c3e01fe4968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 797ae95a596de6141b0b778eca3c31c4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
