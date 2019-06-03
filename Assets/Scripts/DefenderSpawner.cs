@@ -1,10 +1,27 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class DefenderSpawner : MonoBehaviour
 {
-    Defender defender;
+    private Defender defender;
+    private GameObject defenders;
+    private const string DEFENDERS_NAME = "Defenders";
+
+    private void Start()
+    {
+        CreateDefenderParent();
+    }
+
+    private void CreateDefenderParent()
+    {
+        defenders = GameObject.Find(DEFENDERS_NAME);
+        if (!defenders)
+        {
+            defenders = new GameObject(DEFENDERS_NAME);
+        }
+    }
 
     public void SetSelectedDefender(Defender newDefender)
     {
@@ -18,12 +35,15 @@ public class DefenderSpawner : MonoBehaviour
 
     private void AttemptToPlaceDefenderAt(Vector2 gridPosition)
     {
-        int starCost = defender.GetStarCost();
-        var StarDisplay = FindObjectOfType<StarDisplay>();
-        if (StarDisplay.HaveEnoughStars(starCost))
+        if (defender)
         {
-            SpawnDefender(gridPosition);
-            StarDisplay.SpendStars(starCost);
+            int starCost = defender.GetStarCost();
+            var StarDisplay = FindObjectOfType<StarDisplay>();
+            if (StarDisplay.HaveEnoughStars(starCost))
+            {
+                SpawnDefender(gridPosition);
+                StarDisplay.SpendStars(starCost);
+            }
         }
     }
 
@@ -47,6 +67,7 @@ public class DefenderSpawner : MonoBehaviour
         if (defender)
         {
             Defender newDefender = Instantiate(defender, roundedPosition, Quaternion.identity);
+            newDefender.transform.parent = defenders.transform;
         }
     }
 

@@ -9,10 +9,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2792383679941130844}
+  - component: {fileID: 694057630073652951}
   - component: {fileID: 5863389954487688804}
   - component: {fileID: 4960495994805065029}
   - component: {fileID: 786823092949056010}
-  - component: {fileID: 694057630073652951}
+  - component: {fileID: 1320733037726006851}
   m_Layer: 0
   m_Name: Cactus
   m_TagString: Untagged
@@ -35,6 +36,32 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &694057630073652951
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2792383679941130843}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.003275752, y: 0.019712806}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.95425487, y: 0.9608066}
+  m_EdgeRadius: 0
 --- !u!95 &5863389954487688804
 Animator:
   serializedVersion: 3
@@ -82,32 +109,20 @@ MonoBehaviour:
   projectile: {fileID: 5038909307373179586, guid: 96943724d20a9334c897aa768df1f6ae,
     type: 3}
   gun: {fileID: 2792383681690222248}
---- !u!61 &694057630073652951
-BoxCollider2D:
+--- !u!114 &1320733037726006851
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2792383679941130843}
   m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.03281617}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.0656323, y: 1.0656323}
-  m_EdgeRadius: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c6fb1106025a5442a400dce4f64b991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 50
+  deathVFX: {fileID: 0}
 --- !u!1 &2792383680350717578
 GameObject:
   m_ObjectHideFlags: 0

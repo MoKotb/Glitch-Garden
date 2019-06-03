@@ -9,7 +9,7 @@ public class AttackerSpawner : MonoBehaviour
     [SerializeField]
     float maxSpawnDelay = 5f;
     [SerializeField]
-    Attacker attackerPrefab;
+    Attacker[] attackerPrefabArray;
 
     private bool spawn = true;
 
@@ -22,9 +22,21 @@ public class AttackerSpawner : MonoBehaviour
         }   
     }
 
+    public void StopSpawning()
+    {
+        spawn = false;
+    }
+
     private void SpawnAttacker()
     {
-        Attacker newAttacker = Instantiate(attackerPrefab, transform.position, Quaternion.identity) as Attacker;
+        int attackerIndex = Random.Range(0, attackerPrefabArray.Length);
+        Spawn(attackerPrefabArray[attackerIndex]);
+    }
+
+    private void Spawn(Attacker attacker)
+    {
+        Attacker newAttacker = Instantiate(attacker, transform.position, Quaternion.identity) as Attacker;
         newAttacker.transform.parent = transform;
     }
+
 }

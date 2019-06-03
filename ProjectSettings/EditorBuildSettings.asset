@@ -5,13 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/SplashScreen.unity
     guid: 97d9e140969e14d419f47eb6e20650a1
   - enabled: 1
     path: Assets/Scenes/StartScreen.unity
     guid: ca65c4f40df68154caf94bd17f3b19ac
+  - enabled: 1
+    path: Assets/Scenes/Blank Level.unity
+    guid: c9b6fbbf76156f24d9d8cfe40230540f
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: f1473cc4ca2da5047af78b7074566b45
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 91f47c49b2cf607469df4e159ea9cba5
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 52722369d2e2eb24484807102e24015b
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: 47955d161edf1494a80978320c555be4
+  - enabled: 1
+    path: Assets/Scenes/OptionsScreen.unity
+    guid: 72d963c84a4c51f448a8946c478e73e6
   m_configObjects: {}
